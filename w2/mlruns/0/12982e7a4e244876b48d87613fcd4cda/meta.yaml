@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Utilisteur/OneDrive%20-%20Audencia/GitHub/mlops-zoomcamp-homework/w2/mlruns/0/12982e7a4e244876b48d87613fcd4cda/artifacts
+end_time: 1716272373458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12982e7a4e244876b48d87613fcd4cda
+run_name: welcoming-midge-717
+run_uuid: 12982e7a4e244876b48d87613fcd4cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716272360413
+status: 3
+tags: []
+user_id: nicolas

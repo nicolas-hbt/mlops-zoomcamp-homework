@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Utilisteur/OneDrive%20-%20Audencia/GitHub/mlops-zoomcamp-homework/w2/mlruns/0/d10c6c14dd1743a2a23b2b2e053d20f0/artifacts
+end_time: 1716272117793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d10c6c14dd1743a2a23b2b2e053d20f0
+run_name: gregarious-ox-40
+run_uuid: d10c6c14dd1743a2a23b2b2e053d20f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716272105790
+status: 3
+tags: []
+user_id: nicolas

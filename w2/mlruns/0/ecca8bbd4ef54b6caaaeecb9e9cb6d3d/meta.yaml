@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Utilisteur/OneDrive%20-%20Audencia/GitHub/mlops-zoomcamp-homework/w2/mlruns/0/ecca8bbd4ef54b6caaaeecb9e9cb6d3d/artifacts
+end_time: 1716272083123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecca8bbd4ef54b6caaaeecb9e9cb6d3d
+run_name: treasured-trout-993
+run_uuid: ecca8bbd4ef54b6caaaeecb9e9cb6d3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716272069426
+status: 3
+tags: []
+user_id: nicolas
